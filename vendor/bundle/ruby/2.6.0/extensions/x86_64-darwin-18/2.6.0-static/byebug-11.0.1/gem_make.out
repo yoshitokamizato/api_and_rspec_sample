@@ -1,0 +1,19 @@
+current directory: /Users/yoshito/rails_lesson/sample/blog_api_sample/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+/Users/yoshito/.rbenv/versions/2.6.0/bin/ruby -I /Users/yoshito/.rbenv/versions/2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190628-2553-1tuf3z9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yoshito/rails_lesson/sample/blog_api_sample/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/yoshito/rails_lesson/sample/blog_api_sample/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/yoshito/rails_lesson/sample/blog_api_sample/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190628-2553-195dsgf/byebug
